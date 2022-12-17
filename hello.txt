@@ -1,7 +1,4 @@
 <<<<<<< HEAD
 TRIEUHUY
 12345
-=======
-TRIEUHUY 
-sdjasdasjk
->>>>>>> 7376d89fe98e7cf32f8ef3cbd887bda4b9734d0a
+hello hello
